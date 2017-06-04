@@ -28,7 +28,7 @@ a {
   -webkit-transition: all 0.35s;
   -moz-transition: all 0.35s;
   transition: all 0.35s;
-  color: #fdcc52;
+  color: #fda53b;
 }
 a:hover,
 a:focus {
@@ -152,9 +152,9 @@ header {
   min-height: auto;
   overflow-y: hidden;
   /* fallback for old browsers */
-  background: url("../img/bg-pattern.png"), -webkit-linear-gradient(to left, #fce97e, #51b9f9);
+  background: url("../img/bg-pattern.png"), -webkit-linear-gradient(to left, #bc61d2, #5c65f6);
   /* Chrome 10-25, Safari 5.1-6 */
-  background: url("../img/bg-pattern.png"), linear-gradient(to left, #fce97e, #51b9f9);
+  background: url("../img/bg-pattern.png"), linear-gradient(to left, #bc61d2, #5c65f6);
   /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   color: white;
 }
