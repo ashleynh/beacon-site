@@ -197,3 +197,9 @@ DEPENDENCIES
   jekyll-feed (~> 0.6)
   minima (~> 2.0)
   nokogiri (~> 1.6.8)
+
+RUBY VERSION
+   ruby 2.0.0p648
+
+BUNDLED WITH
+   1.15.0
