@@ -17,7 +17,7 @@ title: Beacon
 email: beacon-app@googlegroups.com
 description: > # this means to ignore newlines until "baseurl:"
     Use Beacon to signal availability to friends! In town for a conference and want to hang out with other attendees? Have an extra ticket to a concert? Want to see a movie on Thursday? Post your impromptu event in Beacon, the perfect way to hang out with friends, friends of friends, or someone new without hassle.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/beacon-site" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
